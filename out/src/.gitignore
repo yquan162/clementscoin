@@ -1,0 +1,34 @@
+src/*.exe
+src/clementscoin
+src/clementscoind
+src/test_clementscoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.clementscoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+clementscoin-qt
+Clementscoin-Qt.app
+
+# Unit-tests
+Makefile.test
+clementscoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
