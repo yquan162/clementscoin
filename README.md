@@ -11,13 +11,11 @@ What is Clementscoin?
 ----------------
 
 Clementscoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 5 minute block targets
+ - 3.125 minute block targets
  - subsidy halves in 105k blocks
  - ~1.4 million total coins
  - 75 coins per block
-
-The rest is the same as Bitcoin.
- - 2016 blocks to retarget difficulty
+ - 288 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
 the Clementscoin client sofware, see http://clementstech.club.
