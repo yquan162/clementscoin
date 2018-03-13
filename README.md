@@ -16,6 +16,8 @@ Clementscoin is a lite version of Bitcoin using scrypt as a proof-of-work algori
  - ~1.4 million total coins
  - 75 coins per block
  - 288 blocks to retarget difficulty
+ - RPC Port - 3665
+ - Connection Port - 3666
 
 For more information, as well as an immediately useable, binary version of
 the Clementscoin client sofware, see http://clementstech.club.
