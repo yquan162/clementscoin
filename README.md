@@ -10,7 +10,15 @@ Copyright (c) 2018 Clementscoin Developers
 What is Clementscoin?
 ----------------
 
-Clementscoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+Clementscoin is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. Clementscoin uses peer-to-peer technology to operate
+with no central authority: managing transactions and issuing money are carried
+out collectively by the network. Clementscoin Core is the name of open source
+software which enables the use of this currency.
+
+For more information, as well as an immediately useable, binary version of
+the Clementscoin Core software, see [https:/clementstech.club](https://clementstech.club).
+
  - 3.125 minute block targets
  - subsidy halves in 105k blocks
  - ~1.4 million total coins
