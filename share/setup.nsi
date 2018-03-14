@@ -7,7 +7,7 @@ SetCompressor /SOLID lzma
 !define REGKEY "SOFTWARE\$(^Name)"
 !define VERSION 0.8.7.5
 !define COMPANY "Clementscoin project"
-!define URL http://www.clementstech.club/
+!define URL http://clementstech.club/
 
 # MUI Symbol Definitions
 !define MUI_ICON "../share/pixmaps/bitcoin.ico"
