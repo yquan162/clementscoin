@@ -104,7 +104,7 @@ repackage gitian builds for release as stand-alone zip/tar/installer exe
 * Code-sign Windows -setup.exe (in a Windows virtual machine) and
   OSX Bitcoin-Qt.app (Note: only Gavin has the code-signing keys currently)
 
-* update clementscoin.org version
+* update clementstech.club version
   make sure all OS download links go to the right versions
 
 * update forum version

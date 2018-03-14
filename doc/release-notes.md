@@ -2,8 +2,8 @@
 =============
 - openssl-1.0.1k or older versions patched for CVE-2014-8275 broke compatibility with Bitcoin and Clementscoin.
   This update patches Clementscoin to maintain compatibility with CVE-2014-8275 patched openssl.
-- If you are running v0.8.7.4 as distributed by clementscoin.org you do not need to upgrade.
-  The binaries distributed on clementscoin.org contain their own copy of openssl so they are unaffected by this issue.
+- If you are running v0.8.7.4 as distributed by clementstech.club you do not need to upgrade.
+  The binaries distributed on clementstech.club contain their own copy of openssl so they are unaffected by this issue.
 
 0.8.7.4 changes
 =============
