@@ -15,6 +15,7 @@ anyone, anywhere in the world. Clementscoin uses peer-to-peer technology to oper
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Clementscoin Core is the name of open source
 software which enables the use of this currency.
+
 Specifications
 --------------
  - 3.125 minute block targets
