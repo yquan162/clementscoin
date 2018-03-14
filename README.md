@@ -1,4 +1,4 @@
-Clementscoin integration/staging tree
+Clementscoin Core integration/staging tree
 ================================
 
 http://clementstech.club
