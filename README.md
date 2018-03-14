@@ -27,7 +27,7 @@ Specifications
  - Connection Port - 3666
 
 For more information, as well as an immediately useable, binary version of
-the Clementscoin Core software, see [https:/clementstech.club](https://clementstech.club).
+the Clementscoin Core software, see [http:/clementstech.club](http://clementstech.club).
 
 License
 -------
