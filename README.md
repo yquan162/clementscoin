@@ -15,10 +15,8 @@ anyone, anywhere in the world. Clementscoin uses peer-to-peer technology to oper
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Clementscoin Core is the name of open source
 software which enables the use of this currency.
-
-For more information, as well as an immediately useable, binary version of
-the Clementscoin Core software, see [https:/clementstech.club](https://clementstech.club).
-
+Specifications
+--------------
  - 3.125 minute block targets
  - subsidy halves in 105k blocks
  - ~1.4 million total coins
@@ -28,7 +26,7 @@ the Clementscoin Core software, see [https:/clementstech.club](https://clementst
  - Connection Port - 3666
 
 For more information, as well as an immediately useable, binary version of
-the Clementscoin client sofware, see http://clementstech.club.
+the Clementscoin Core software, see [https:/clementstech.club](https://clementstech.club).
 
 License
 -------
@@ -40,7 +38,7 @@ Development process
 -------------------
 The `master` branch is regularly built and tested, but is not guaranteed to be
 completely stable. [Tags](https://github.com/yquan162/clementscoin/tags) are created
-regularly to indicate new official, stable release versions of Litecoin Core.
+regularly to indicate new official, stable release versions of Clementscoin Core.
 
 Developers work in their own trees, then submit pull requests when they think
 their feature or bug fix is ready.
@@ -55,10 +53,6 @@ The patch will be accepted if there is broad consensus that it is a good thing.
 Developers should expect to rework and resubmit patches if the code doesn't
 match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
-
-The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/yquan162/clementscoin/tags) are created
-regularly to indicate new official, stable release versions of Clementscoin.
 
 Testing
 -------
