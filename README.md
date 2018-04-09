@@ -1,7 +1,7 @@
 Clementscoin Core integration/staging tree
 ================================
 
-http://clementstech.club
+https://clementstech.club/clementscoin/
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
@@ -27,7 +27,7 @@ Specifications
  - Connection Port - 3666
 
 For more information, as well as an immediately useable, binary version of
-the Clementscoin Core software, see [http:/clementstech.club](http://clementstech.club).
+the Clementscoin Core software, see the [Clements Tech website](https://clementstech.club/clementscoin/).
 
 License
 -------
