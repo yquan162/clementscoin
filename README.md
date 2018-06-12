@@ -9,10 +9,10 @@ Copyright (c) 2018 Clementscoin Developers
 
 #### Table of contents
 
-* [About](#what-is-clementscoin)
-* [Specs](#specifications)
+* [What is Clementscoin?](#what-is-clementscoin)
+* [Specifications](#specifications)
 * [License](#license)
-* [Developtment Process](#development-process)
+* [Development Process](#development-process)
 * [Testing](#testing)
 * [Translations](#translations)
 
