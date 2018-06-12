@@ -7,8 +7,17 @@ Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2018 Clementscoin Developers
 
+#### Table of contents
+
+* [About](#what-is-clementscoin)
+* [Specs](#specifications)
+* [License](#license)
+* [Developtment Process](#development-process)
+* [Testing](#testing)
+* [Translations](#translations)
+
 What is Clementscoin?
-----------------
+=====================
 
 Clementscoin is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. Clementscoin uses peer-to-peer technology to operate
@@ -17,7 +26,7 @@ out collectively by the network. Clementscoin Core is the name of open source
 software which enables the use of this currency.
 
 Specifications
---------------
+==============
  - 3.125 minute block targets
  - subsidy halves in 105k blocks
  - ~1.4 million total coins
@@ -30,13 +39,13 @@ For more information, as well as an immediately useable, binary version of
 the Clementscoin Core software, see the [Clements Tech website](https://clementstech.club/clementscoin/).
 
 License
--------
+=======
 
 Clementscoin is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see http://opensource.org/licenses/MIT.
 
 Development process
--------------------
+===================
 The `master` branch is regularly built and tested, but is not guaranteed to be
 completely stable. [Tags](https://github.com/yquan162/clementscoin/tags) are created
 regularly to indicate new official, stable release versions of Clementscoin Core.
@@ -56,7 +65,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 Testing
--------
+=======
 
 Testing and code review is the bottleneck for development; we get more pull
 requests than we can review and test on short notice. Please be patient and help out by testing
@@ -86,7 +95,7 @@ to add a test plan to the pull request description if testing the changes is
 not straightforward.
 
 Translations
-------------
+============
 
 We only accept translation fixes that are submitted through [Bitcoin Core's Transifex page](https://www.transifex.com/projects/p/bitcoin/).
 Translations are converted to Clementscoin periodically.
